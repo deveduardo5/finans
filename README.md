@@ -17,7 +17,8 @@ Para a realização do projeto e necessario conhecimentos básico em HTML e CSS.
 ## Author
 
 - GitHub - [@deveduardo5](https://github.com/deveduardo5)
-- Project link - [site](https://20-09-s7limas-projects.vercel.app/)
+- Project link - [site](finans-peach.vercel.app)
+
 
 ## Agradecimentos
 
